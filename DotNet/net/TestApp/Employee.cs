@@ -22,8 +22,12 @@ public class Employee{
         this.FullName=fullName;
     }
 
+    public virtual float ComputerPay(){
+        return 50000;
+    }
+
     public override string ToString(){
-        return id+ " " +FullName;
+        return id+ " " +FullName + " " + ComputerPay();
     }
 
 
