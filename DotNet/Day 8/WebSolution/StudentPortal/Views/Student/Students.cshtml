@@ -1,0 +1,17 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Student Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Students</h1>
+    @foreach (var stud in (List<Student>)ViewData["Students"]){
+       <p>
+         @stud.ID
+        @stud.Firstname
+        @stud.Lastname
+        @stud.DOB
+        @stud.Email
+       </p>
+    }
+</div>
