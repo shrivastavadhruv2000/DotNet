@@ -9,7 +9,8 @@
       "StudentCrud/1.0.0": {
         "dependencies": {
           "BLL": "1.0.0",
-          "BOL": "1.0.0"
+          "BOL": "1.0.0",
+          "DAL": "1.0.0"
         },
         "runtime": {
           "StudentCrud.dll": {}
@@ -301,7 +302,7 @@
       "BLL/1.0.0": {
         "dependencies": {
           "BOL": "1.0.0",
-          "DAl": "1.0.0"
+          "DAL": "1.0.0"
         },
         "runtime": {
           "BLL.dll": {}
@@ -312,13 +313,13 @@
           "BOL.dll": {}
         }
       },
-      "DAl/1.0.0": {
+      "DAL/1.0.0": {
         "dependencies": {
           "BOL": "1.0.0",
           "MySql.Data": "8.2.0"
         },
         "runtime": {
-          "DAl.dll": {}
+          "DAL.dll": {}
         }
       }
     }
@@ -563,7 +564,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "DAl/1.0.0": {
+    "DAL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

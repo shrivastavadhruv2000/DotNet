@@ -1,4 +1,4 @@
-namespace DAL;
+Mnamespace DAL;
 
 using MySql.Data.MySqlClient;
 using BOL;

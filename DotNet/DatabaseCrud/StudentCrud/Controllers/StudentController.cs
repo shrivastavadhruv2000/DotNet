@@ -4,6 +4,8 @@ using StudentCrud.Models;
 using System.Collections.Generic;
 using BLL;
 using BOL;
+using Org.BouncyCastle.Asn1.Iana;
+using DAL;
 
 
 namespace StudentCrud.Controllers;
@@ -24,6 +26,17 @@ public class StudentController : Controller
         List<Student> list=new List<Student>();
         list=cm.GetAllStudents();
         ViewData["Student"]=list;
+        return View();
+    }
+
+    // public IActionResult Register(){
+    //     return View();
+    // }
+
+    public IActionResult Register(int id,string namefirst,string namelast, string dob,string email ){
+    DBManager.insertStudent(id,namefirst,namelast,dob,email);
+    
+        
         return View();
     }
 

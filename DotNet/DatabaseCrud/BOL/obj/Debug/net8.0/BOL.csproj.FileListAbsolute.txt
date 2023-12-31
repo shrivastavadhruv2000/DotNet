@@ -9,3 +9,15 @@ C:\Users\IET\Desktop\DotNet\DatabaseCrud\BOl\obj\Debug\net8.0\BOL.dll
 C:\Users\IET\Desktop\DotNet\DatabaseCrud\BOl\obj\Debug\net8.0\refint\BOL.dll
 C:\Users\IET\Desktop\DotNet\DatabaseCrud\BOl\obj\Debug\net8.0\BOL.pdb
 C:\Users\IET\Desktop\DotNet\DatabaseCrud\BOl\obj\Debug\net8.0\ref\BOL.dll
+V:\DotNet\DotNet\DotNet\DatabaseCrud\BOL\bin\Debug\net8.0\BOL.deps.json
+V:\DotNet\DotNet\DotNet\DatabaseCrud\BOL\bin\Debug\net8.0\BOL.dll
+V:\DotNet\DotNet\DotNet\DatabaseCrud\BOL\bin\Debug\net8.0\BOL.pdb
+V:\DotNet\DotNet\DotNet\DatabaseCrud\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+V:\DotNet\DotNet\DotNet\DatabaseCrud\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+V:\DotNet\DotNet\DotNet\DatabaseCrud\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+V:\DotNet\DotNet\DotNet\DatabaseCrud\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+V:\DotNet\DotNet\DotNet\DatabaseCrud\BOL\obj\Debug\net8.0\BOL.sourcelink.json
+V:\DotNet\DotNet\DotNet\DatabaseCrud\BOL\obj\Debug\net8.0\BOL.dll
+V:\DotNet\DotNet\DotNet\DatabaseCrud\BOL\obj\Debug\net8.0\refint\BOL.dll
+V:\DotNet\DotNet\DotNet\DatabaseCrud\BOL\obj\Debug\net8.0\BOL.pdb
+V:\DotNet\DotNet\DotNet\DatabaseCrud\BOL\obj\Debug\net8.0\ref\BOL.dll
