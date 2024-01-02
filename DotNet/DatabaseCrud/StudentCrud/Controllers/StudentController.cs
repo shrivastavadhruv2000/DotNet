@@ -40,6 +40,22 @@ public class StudentController : Controller
         return View();
     }
 
+    public IActionResult Login(int id,string email){
+        List<Student> log=DBManager.GetAllStudents();
+
+        foreach (Student item in log)
+        {
+            Console.WriteLine(item.ID+item.Email);
+            if((item.ID.Equals(id))&&(item.Email.Equals(email))){
+                Console.WriteLine("true");
+                Response.Redirect("/Student/Student");
+            }
+            
+        }
+        return View();
+
+    }
+
     public IActionResult Privacy()
     {
         return View();

@@ -72,6 +72,27 @@ public class DBManager{
             }
             //return status;
         }
+
+    public static void loginStudent(int id,string email){
+        MySqlConnection conn=new MySqlConnection;
+        conn.ConnectionString=connection_string;
+
+        string query="select ID,Email from student";
+        MySqlCommand cmd=new MySqlCommand(query,conn);
+
+        try{
+            conn.Open();
+            cmd.ExecuteNonQuery();
+        }
+        catch(Exception e){
+            Console.WriteLine(e.Message);
+        }
+        finally{
+            conn.Close();
+        }
+    }
+
+
     }
     
 

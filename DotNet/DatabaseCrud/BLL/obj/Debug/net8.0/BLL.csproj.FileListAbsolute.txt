@@ -27,7 +27,6 @@ V:\DotNet\DotNet\DotNet\DatabaseCrud\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEd
 V:\DotNet\DotNet\DotNet\DatabaseCrud\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
 V:\DotNet\DotNet\DotNet\DatabaseCrud\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
 V:\DotNet\DotNet\DotNet\DatabaseCrud\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
-V:\DotNet\DotNet\DotNet\DatabaseCrud\BLL\obj\Debug\net8.0\BLL.sourcelink.json
 V:\DotNet\DotNet\DotNet\DatabaseCrud\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
 V:\DotNet\DotNet\DotNet\DatabaseCrud\BLL\obj\Debug\net8.0\BLL.dll
 V:\DotNet\DotNet\DotNet\DatabaseCrud\BLL\obj\Debug\net8.0\refint\BLL.dll

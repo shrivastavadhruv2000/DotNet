@@ -1,0 +1,17 @@
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\bin\Debug\net8.0\BOL.dll
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\bin\Debug\net8.0\BOL.pdb
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Nikhil\Desktop\Dotnet\hrsolution\BLL\obj\Debug\net8.0\ref\BLL.dll
