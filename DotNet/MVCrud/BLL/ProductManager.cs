@@ -7,8 +7,8 @@ using DAL;
 
 
 public  class ProductManager{
-    public  List<Product> GetProducts(){
-        List<Product> list=new List<Product>();
+    public  List<ProductDetail> GetProducts(){
+        List<ProductDetail> list=new List<ProductDetail>();
         list=DBManager.GetProducts();
     
         return list;

@@ -8,28 +8,29 @@ using System.Net.Http.Headers;
 public class DBManager{
 
     // Yaha pr Public NAhi diya hai
-    static string connection_string="server=192.168.10.150;port=3306;user=dac19;password=welcome;database=dac19";
+    static string connection_string="server=localhost;port=3306;user=root;password=123456788;database=dhruv";
     
-    public static List<Product> GetProducts(){
-       List<Product> list=new List<Product>();
+    public static List<ProductDetail> GetProducts(){
+       List<ProductDetail> list=new List<ProductDetail>();
         MySqlConnection conn=new MySqlConnection();
         conn.ConnectionString=connection_string;
-        string query="Select * from Product";
+        string query="Select * from products";
         MySqlCommand cmd= new MySqlCommand(query,conn);
 
         try{
             conn.Open();
             MySqlDataReader reader =cmd.ExecuteReader();
             while(reader.Read()){
-                int Id=int.Parse(reader["id"].ToString()+"");
+                int Id=int.Parse(reader["id"].ToString());
                 string Title=reader["title"].ToString();
                 string Description =reader["description"].ToString();
-                double Prize=double.Parse(reader["prize"].ToString());
-                Product pdt=new Product{
+                double Price=double.Parse(reader["price"].ToString());
+                Console.WriteLine(Id+ " "+ Title+ " "+ Description+ " " +Price);
+                ProductDetail pdt=new ProductDetail{
                     id=Id,
                     title=Title,
                     description=Description,
-                    prize=Prize,
+                    price=Price,
                 };
 
                 list.Add(pdt);
@@ -40,7 +41,8 @@ public class DBManager{
         catch(Exception e){
             Console.WriteLine(e.Message);
 
-        }finally{
+        }
+        finally{
             conn.Close();
         }
 

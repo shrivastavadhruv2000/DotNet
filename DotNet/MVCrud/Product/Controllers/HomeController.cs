@@ -26,7 +26,7 @@ public class HomeController : Controller
 
     public IActionResult All(){
         ProductManager pm= new ProductManager();
-         List<Product> list=new List<Product>();
+         List<ProductDetail> list=new List<ProductDetail>();
          list=pm.GetProducts();
          ViewData["Products"]=list;
          return View();

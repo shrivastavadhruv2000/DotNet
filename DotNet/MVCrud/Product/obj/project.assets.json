@@ -1840,19 +1840,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IET\\.nuget\\packages\\": {}
+    "C:\\Users\\Hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCrud\\Product\\Product.csproj",
+      "projectUniqueName": "V:\\DotNet\\DotNet\\DotNet\\MVCrud\\product\\Product.csproj",
       "projectName": "Product",
-      "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCrud\\Product\\Product.csproj",
-      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCrud\\Product\\obj\\",
+      "projectPath": "V:\\DotNet\\DotNet\\DotNet\\MVCrud\\product\\Product.csproj",
+      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+      "outputPath": "V:\\DotNet\\DotNet\\DotNet\\MVCrud\\product\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1864,14 +1864,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCrud\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCrud\\BLL\\BLL.csproj"
+            "v:\\DotNet\\DotNet\\DotNet\\MVCrud\\BLL\\BLL.csproj": {
+              "projectPath": "v:\\DotNet\\DotNet\\DotNet\\MVCrud\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCrud\\BOL\\BOL.csproj": {
-              "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCrud\\BOL\\BOL.csproj"
+            "V:\\DotNet\\DotNet\\DotNet\\MVCrud\\BOL\\BOL.csproj": {
+              "projectPath": "V:\\DotNet\\DotNet\\DotNet\\MVCrud\\BOL\\BOL.csproj"
             },
-            "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCrud\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCrud\\DAL\\DAL.csproj"
+            "v:\\DotNet\\DotNet\\DotNet\\MVCrud\\DAL\\DAL.csproj": {
+              "projectPath": "v:\\DotNet\\DotNet\\DotNet\\MVCrud\\DAL\\DAL.csproj"
             }
           }
         }

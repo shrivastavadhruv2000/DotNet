@@ -1,0 +1,17 @@
+@using BOL;
+
+<div class ="text-center">
+    <h1 class ="display-4">All Products Detail</h1>
+    @{
+        List<ProductDetail> allProducts=this.ViewData["Products"] as List<ProductDetail>;
+        foreach(ProductDetail p in allProducts){
+            <p>
+                @p.id,
+                @p.title,
+                @p.description,
+                @p.price
+
+            </p>
+        } 
+    }
+</div>
