@@ -23,8 +23,12 @@ public class Student{
         this.DOB=dob;
         this.Email=email;
     }
-
-    public override string ToString(){
-        return "ID:" + ID+"Name:" + FirstName + " " + LastName + "Dob:" + DOB + "Email" + Email;
+    
+    public Student(int id,string email){
+        this.ID=id;
+        this.Email=email;
     }
+    // public override string ToString(){
+    //     return "ID:" + ID+"Name:" + FirstName + " " + LastName + "Dob:" + DOB + "Email" + Email;
+    // }
 }

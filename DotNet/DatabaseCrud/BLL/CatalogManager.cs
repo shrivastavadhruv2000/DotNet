@@ -9,4 +9,6 @@ public class CataLogManager{
         list=DBManager.GetAllStudents();
         return list;
     }
+
+    public Student 
 }

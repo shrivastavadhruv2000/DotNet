@@ -104,7 +104,6 @@ V:\DotNet\DotNet\DotNet\DatabaseCrud\StudentCrud\obj\Debug\net8.0\StudentCrud.cs
 V:\DotNet\DotNet\DotNet\DatabaseCrud\StudentCrud\obj\Debug\net8.0\StudentCrud.MvcApplicationPartsAssemblyInfo.cache
 V:\DotNet\DotNet\DotNet\DatabaseCrud\StudentCrud\obj\Debug\net8.0\StudentCrud.RazorAssemblyInfo.cache
 V:\DotNet\DotNet\DotNet\DatabaseCrud\StudentCrud\obj\Debug\net8.0\StudentCrud.RazorAssemblyInfo.cs
-V:\DotNet\DotNet\DotNet\DatabaseCrud\StudentCrud\obj\Debug\net8.0\StudentCrud.sourcelink.json
 V:\DotNet\DotNet\DotNet\DatabaseCrud\StudentCrud\obj\Debug\net8.0\staticwebassets.build.json
 V:\DotNet\DotNet\DotNet\DatabaseCrud\StudentCrud\obj\Debug\net8.0\staticwebassets.development.json
 V:\DotNet\DotNet\DotNet\DatabaseCrud\StudentCrud\obj\Debug\net8.0\staticwebassets\msbuild.StudentCrud.Microsoft.AspNetCore.StaticWebAssets.props

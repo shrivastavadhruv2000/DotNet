@@ -41,20 +41,35 @@ public class StudentController : Controller
     }
 
     public IActionResult Login(int id,string email){
+<<<<<<< HEAD
    Console.WriteLine(id+email);
         List<Student>stud=DBManager.GetAllStudents();
 
         foreach (Student item in stud)
+=======
+        List<Student> log=DBManager.GetAllStudents();
+
+        foreach (Student item in log)
+>>>>>>> e8b45f68237e1e022bf6d13a7aa10c2666e4f91a
         {
             Console.WriteLine(item.ID+item.Email);
             if((item.ID.Equals(id))&&(item.Email.Equals(email))){
                 Console.WriteLine("true");
+<<<<<<< HEAD
                 Response.Redirect("/Student/Data");
+=======
+                Response.Redirect("/Student/Student");
+>>>>>>> e8b45f68237e1e022bf6d13a7aa10c2666e4f91a
             }
             
         }
         return View();
+<<<<<<< HEAD
 }
+=======
+
+    }
+>>>>>>> e8b45f68237e1e022bf6d13a7aa10c2666e4f91a
 
     public IActionResult Privacy()
     {

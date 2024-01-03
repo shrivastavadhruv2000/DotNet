@@ -23,7 +23,6 @@ V:\DotNet\DotNet\DotNet\DatabaseCrud\DAl\obj\Debug\net8.0\DAl.GeneratedMSBuildEd
 V:\DotNet\DotNet\DotNet\DatabaseCrud\DAl\obj\Debug\net8.0\DAl.AssemblyInfoInputs.cache
 V:\DotNet\DotNet\DotNet\DatabaseCrud\DAl\obj\Debug\net8.0\DAl.AssemblyInfo.cs
 V:\DotNet\DotNet\DotNet\DatabaseCrud\DAl\obj\Debug\net8.0\DAl.csproj.CoreCompileInputs.cache
-V:\DotNet\DotNet\DotNet\DatabaseCrud\DAl\obj\Debug\net8.0\DAl.sourcelink.json
 V:\DotNet\DotNet\DotNet\DatabaseCrud\DAl\obj\Debug\net8.0\DAl.csproj.CopyComplete
 V:\DotNet\DotNet\DotNet\DatabaseCrud\DAl\obj\Debug\net8.0\DAl.dll
 V:\DotNet\DotNet\DotNet\DatabaseCrud\DAl\obj\Debug\net8.0\refint\DAl.dll
