@@ -1845,11 +1845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Desktop\\DeleteMe\\WebAppDB\\Portal\\Portal.csproj",
+      "projectUniqueName": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCDatabaseConnectivty\\WebAppDB\\portal\\Portal.csproj",
       "projectName": "Portal",
-      "projectPath": "C:\\Users\\IET\\Desktop\\DeleteMe\\WebAppDB\\Portal\\Portal.csproj",
+      "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCDatabaseConnectivty\\WebAppDB\\portal\\Portal.csproj",
       "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Desktop\\DeleteMe\\WebAppDB\\Portal\\obj\\",
+      "outputPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCDatabaseConnectivty\\WebAppDB\\portal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1864,14 +1864,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\IET\\Desktop\\DeleteMe\\WebAppDB\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\IET\\Desktop\\DeleteMe\\WebAppDB\\BLL\\BLL.csproj"
+            "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCDatabaseConnectivty\\WebAppDB\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCDatabaseConnectivty\\WebAppDB\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\IET\\Desktop\\DeleteMe\\WebAppDB\\BOL\\BOL.csproj": {
-              "projectPath": "C:\\Users\\IET\\Desktop\\DeleteMe\\WebAppDB\\BOL\\BOL.csproj"
+            "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCDatabaseConnectivty\\WebAppDB\\BOL\\BOL.csproj": {
+              "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCDatabaseConnectivty\\WebAppDB\\BOL\\BOL.csproj"
             },
-            "C:\\Users\\IET\\Desktop\\DeleteMe\\WebAppDB\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\IET\\Desktop\\DeleteMe\\WebAppDB\\DAL\\DAL.csproj"
+            "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCDatabaseConnectivty\\WebAppDB\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCDatabaseConnectivty\\WebAppDB\\DAL\\DAL.csproj"
             }
           }
         }

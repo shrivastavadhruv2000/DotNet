@@ -5,7 +5,7 @@ using MySql.Data.MySqlClient;
 
 public class DBManager{
 
-    public static string connection_string="server=localhost;port=3306;user=root;password=123456788;database=dhruv";
+    public static string connection_string="server=192.168.10.150;port=3306;user=dac19;password=welcome;database=dac19";
 
     public static List<Student> GetAllStudents(){
         List<Student> list=new List<Student>();
@@ -22,10 +22,10 @@ public class DBManager{
             while(reader.Read()){
                 
                 int id=int.Parse(reader["ID"].ToString());
-                string namefirst=reader["FirstName"].ToString();
-                string namelast =reader["LastName"].ToString();
+                string namefirst=reader["namefirst"].ToString();
+                string namelast =reader["namelast"].ToString();
                 string dob=reader["DOB"].ToString();
-                string email=reader["Email"].ToString();
+                string email=reader["emailID"].ToString();
                 Console.WriteLine(id+ " "+ namefirst+ " "+ namelast+ " " + dob + " " +email);
                 Student s = new Student{
                     ID=id,
@@ -56,7 +56,7 @@ public class DBManager{
         MySqlConnection conn=new MySqlConnection();
        // bool status=false;
         conn.ConnectionString=connection_string;
-        string query ="insert into student(ID,FirstName,LastName,DOB,Email) values('" + id +"','" + fname +"','" +lname + "','" +dob + "','"+ email + "')";
+        string query ="insert into student(ID,namefirst,namelast,DOB,emailId) values('" + id +"','" + fname +"','" +lname + "','" +dob + "','"+ email + "')";
         MySqlCommand cmd= new MySqlCommand(query,conn);
 
         try{

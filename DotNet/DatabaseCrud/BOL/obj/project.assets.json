@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hp\\.nuget\\packages\\": {}
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "V:\\DotNet\\DotNet\\DotNet\\DatabaseCrud\\BOL\\BOL.csproj",
+      "projectUniqueName": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\DatabaseCrud\\BOL\\BOL.csproj",
       "projectName": "BOL",
-      "projectPath": "V:\\DotNet\\DotNet\\DotNet\\DatabaseCrud\\BOL\\BOL.csproj",
-      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "V:\\DotNet\\DotNet\\DotNet\\DatabaseCrud\\BOL\\obj\\",
+      "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\DatabaseCrud\\BOL\\BOL.csproj",
+      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\DatabaseCrud\\BOL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

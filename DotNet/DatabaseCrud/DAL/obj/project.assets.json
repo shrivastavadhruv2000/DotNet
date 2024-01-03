@@ -1801,19 +1801,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hp\\.nuget\\packages\\": {}
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "V:\\DotNet\\DotNet\\DotNet\\DatabaseCrud\\DAl\\DAl.csproj",
-      "projectName": "DAl",
-      "projectPath": "V:\\DotNet\\DotNet\\DotNet\\DatabaseCrud\\DAl\\DAl.csproj",
-      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "V:\\DotNet\\DotNet\\DotNet\\DatabaseCrud\\DAl\\obj\\",
+      "projectUniqueName": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\DatabaseCrud\\DAL\\DAL.csproj",
+      "projectName": "DAL",
+      "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\DatabaseCrud\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\DatabaseCrud\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1825,8 +1825,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "V:\\DotNet\\DotNet\\DotNet\\DatabaseCrud\\BOL\\BOL.csproj": {
-              "projectPath": "V:\\DotNet\\DotNet\\DotNet\\DatabaseCrud\\BOL\\BOL.csproj"
+            "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\DatabaseCrud\\BOL\\BOL.csproj": {
+              "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\DatabaseCrud\\BOL\\BOL.csproj"
             }
           }
         }

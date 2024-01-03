@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IJbxXqXVZ5IGD17UXANaY1lakeFgpFEFNfRklHyL/yOmEJtfu3BIAewUuxOeLrepPzlDiSN1xKIkBXHS7wtSzg==",
+  "dgSpecHash": "T5ir8lWp9NF9ODdKBOmVqK0JLTHNXH8HjoBJRORpLjE2X0i0pHxRIvlO1bh0tI7TdEYf1XXCI8k8CcbO2rc67Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IET\\Desktop\\DeleteMe\\WebAppDB\\Portal\\Portal.csproj",
+  "projectFilePath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\MVCDatabaseConnectivty\\WebAppDB\\portal\\Portal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IET\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\IET\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
