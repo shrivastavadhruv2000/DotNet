@@ -1,0 +1,20 @@
+@using BOL;
+
+
+<div class="text-center">
+    <h1 class="display-4"> All Student Data </h1>
+    
+        @{
+            List<Student> list= this.ViewData["Student"] as List<Student>;
+                foreach(Student s in list){
+                    <p>
+                        @s.ID,
+                        @s.FirstName,
+                        @s.LastName,
+                        @s.DOB,
+                        @s.Email
+                    </p>
+                }
+
+        }
+</div>

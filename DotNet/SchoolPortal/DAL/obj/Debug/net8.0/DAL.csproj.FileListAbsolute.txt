@@ -1,0 +1,15 @@
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\bin\Debug\net8.0\DAL.deps.json
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\bin\Debug\net8.0\DAL.dll
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\bin\Debug\net8.0\DAL.pdb
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\bin\Debug\net8.0\BOL.dll
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\bin\Debug\net8.0\BOL.pdb
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\obj\Debug\net8.0\DAL.dll
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\obj\Debug\net8.0\refint\DAL.dll
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\obj\Debug\net8.0\DAL.pdb
+V:\DotNet\DotNet\DotNet\SchoolPortal\DAL\obj\Debug\net8.0\ref\DAL.dll

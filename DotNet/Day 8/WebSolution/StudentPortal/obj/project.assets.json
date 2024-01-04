@@ -1840,19 +1840,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IET\\.nuget\\packages\\": {}
+    "C:\\Users\\Hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\Day 8\\WebSolution\\StudentPortal\\StudentPortal.csproj",
+      "projectUniqueName": "V:\\DotNet\\DotNet\\DotNet\\Day 8\\WebSolution\\StudentPortal\\StudentPortal.csproj",
       "projectName": "StudentPortal",
-      "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\Day 8\\WebSolution\\StudentPortal\\StudentPortal.csproj",
-      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\Day 8\\WebSolution\\StudentPortal\\obj\\",
+      "projectPath": "V:\\DotNet\\DotNet\\DotNet\\Day 8\\WebSolution\\StudentPortal\\StudentPortal.csproj",
+      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+      "outputPath": "V:\\DotNet\\DotNet\\DotNet\\Day 8\\WebSolution\\StudentPortal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1864,14 +1864,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\Day 8\\WebSolution\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\Day 8\\WebSolution\\BLL\\BLL.csproj"
+            "V:\\DotNet\\DotNet\\DotNet\\Day 8\\WebSolution\\BLL\\BLL.csproj": {
+              "projectPath": "V:\\DotNet\\DotNet\\DotNet\\Day 8\\WebSolution\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\Day 8\\WebSolution\\BOL\\BOL.csproj": {
-              "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\Day 8\\WebSolution\\BOL\\BOL.csproj"
+            "V:\\DotNet\\DotNet\\DotNet\\Day 8\\WebSolution\\BOL\\BOL.csproj": {
+              "projectPath": "V:\\DotNet\\DotNet\\DotNet\\Day 8\\WebSolution\\BOL\\BOL.csproj"
             },
-            "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\Day 8\\WebSolution\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\IET\\Desktop\\dd\\DotNet\\DotNet\\Day 8\\WebSolution\\DAL\\DAL.csproj"
+            "V:\\DotNet\\DotNet\\DotNet\\Day 8\\WebSolution\\DAL\\DAL.csproj": {
+              "projectPath": "V:\\DotNet\\DotNet\\DotNet\\Day 8\\WebSolution\\DAL\\DAL.csproj"
             }
           }
         }
