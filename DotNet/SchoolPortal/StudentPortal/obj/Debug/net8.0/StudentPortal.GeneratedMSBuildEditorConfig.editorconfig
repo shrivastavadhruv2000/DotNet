@@ -42,6 +42,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEaXNwbGF5QWxsU3R1ZGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[V:/DotNet/DotNet/DotNet/SchoolPortal/StudentPortal/Views/Student/GetByStudentId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxHZXRCeVN0dWRlbnRJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[V:/DotNet/DotNet/DotNet/SchoolPortal/StudentPortal/Views/Student/InsertData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbnNlcnREYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[V:/DotNet/DotNet/DotNet/SchoolPortal/StudentPortal/Views/Student/UpdateData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxVcGRhdGVEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [V:/DotNet/DotNet/DotNet/SchoolPortal/StudentPortal/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -31,6 +31,31 @@ public class StudentController : Controller
         DBManager.DeleteById(id);
         return View();
     }
+    [HttpGet]
+     public IActionResult InsertData(){
+        
+        return View();
+    }
+[HttpPost]
+    public IActionResult InsertData(int ID,string FirstName,string LastName,string DOB,string Email){
+        DBManager.InsertData(ID,FirstName,LastName,DOB,Email);
+        
+        return View();
+    }
+
+
+    public IActionResult UpdateData(int ID,string FirstName,string LastName){
+        DBManager.UpdateData(ID,FirstName,LastName);
+        return View();
+    }
+
+
+    public IActionResult GetByStudentId(int ID){
+        Student s=new Student();
+        s=DBManager.GetById(ID);
+        ViewData["ByID"]=s;
+        return View();
+    }
 
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

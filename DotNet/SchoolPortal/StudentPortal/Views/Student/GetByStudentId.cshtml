@@ -1,0 +1,21 @@
+@using BOL;
+
+<div>
+    <form method="post">
+        @{
+            <label for="id">Student Id:</label>
+            <input type="number" name="ID"/>
+           <button type="submit">Submit</button>
+            Student s= new Student();
+            <div>
+                <p>@s.ID,
+                @s.FirstName;
+                @s.LastName;
+                @s.DOB,
+                @s.Email,        
+
+                </p>
+            </div>
+        }
+    </form>
+</div>
